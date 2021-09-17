@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detector
-Credit Card Fraud Detection
+Detection of abnormalities of Credit Card transactions using Kafka and Cassandra.
